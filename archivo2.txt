@@ -1,1 +1,3 @@
 algo
+2º linea en archivo2
+3º linea en archivo2
